@@ -1,0 +1,290 @@
+{
+    "mgp0001": {
+        "gp_code": "mgp0001",
+        "gp_name": "Brunswick Community Medical Centre",
+        "gp_lat": -37.771508,
+        "gp_lon": 144.962631
+    },
+    "mgp0002": {
+        "gp_code": "mgp0002",
+        "gp_name": "Brunswick Sable Pharmacy",
+        "gp_lat": -37.7694104,
+        "gp_lon": 144.9619028
+    },
+    "mgp0003": {
+        "gp_code": "mgp0003",
+        "gp_name": "Melbourne Paediatric Specialists",
+        "gp_lat": -37.7945021,
+        "gp_lon": 144.9496536
+    },
+    "mgp0004": {
+        "gp_code": "mgp0004",
+        "gp_name": "MOONEE VALLEY CITY COUNCIL",
+        "gp_lat": -37.7645702,
+        "gp_lon": 144.9233013
+    },
+    "mgp0005": {
+        "gp_code": "mgp0005",
+        "gp_name": "HealthSmart Pharmacy VCCC",
+        "gp_lat": -37.7995735,
+        "gp_lon": 144.9550822
+    },
+    "mgp0006": {
+        "gp_code": "mgp0006",
+        "gp_name": "City of Melbourne - Family Services Team",
+        "gp_lat": -37.8040123,
+        "gp_lon": 144.9692993
+    },
+    "mgp0007": {
+        "gp_code": "mgp0007",
+        "gp_name": "Chemist Warehouse - Moonee Ponds",
+        "gp_lat": -37.76670824736842,
+        "gp_lon": 144.92184127894737
+    },
+    "mgp0008": {
+        "gp_code": "mgp0008",
+        "gp_name": "Moreland General Practice",
+        "gp_lat": -37.7561047,
+        "gp_lon": 144.9699562
+    },
+    "mgp0009": {
+        "gp_code": "mgp0009",
+        "gp_name": "Chemist Warehouse - North Melbourne",
+        "gp_lat": -37.8030195,
+        "gp_lon": 144.9497312
+    },
+    "mgp0010": {
+        "gp_code": "mgp0010",
+        "gp_name": "Ascot Vale Pharmacy",
+        "gp_lat": -37.7805224,
+        "gp_lon": 144.9147598
+    },
+    "mgp0011": {
+        "gp_code": "mgp0011",
+        "gp_name": "Clifton Hill Pharmacy",
+        "gp_lat": -37.7896979,
+        "gp_lon": 144.9886126
+    },
+    "mgp0013": {
+        "gp_code": "mgp0013",
+        "gp_name": "Essendon Family Medical Clinic",
+        "gp_lat": -37.7497833,
+        "gp_lon": 144.9187056
+    },
+    "mgp0014": {
+        "gp_code": "mgp0014",
+        "gp_name": "Clinicare - Fitzroy",
+        "gp_lat": -37.8043398,
+        "gp_lon": 144.9831751
+    },
+    "mgp0015": {
+        "gp_code": "mgp0015",
+        "gp_name": "Doctors of Northcote",
+        "gp_lat": -37.7774439,
+        "gp_lon": 144.9974244
+    },
+    "mgp0016": {
+        "gp_code": "mgp0016",
+        "gp_name": "Moreland City Council - Civic Centre",
+        "gp_lat": -37.7414091,
+        "gp_lon": 144.9693696
+    },
+    "mgp0017": {
+        "gp_code": "mgp0017",
+        "gp_name": "Priceline Pharmacy Bourke Street Mall",
+        "gp_lat": -37.813969,
+        "gp_lon": 144.964876
+    },
+    "mgp0018": {
+        "gp_code": "mgp0018",
+        "gp_name": "Melbourne City Council",
+        "gp_lat": -37.8186502,
+        "gp_lon": 144.9680827
+    },
+    "mgp0019": {
+        "gp_code": "mgp0019",
+        "gp_name": "Midtown Medical Clinic",
+        "gp_lat": -37.81549390977831,
+        "gp_lon": 144.9658734305359
+    },
+    "mgp0020": {
+        "gp_code": "mgp0020",
+        "gp_name": "Northcote Discount Chemist",
+        "gp_lat": -37.7698296,
+        "gp_lon": 145.0031884
+    },
+    "mgp0021": {
+        "gp_code": "mgp0021",
+        "gp_name": "Young People's Health Service (Royal Childrens Hospital)",
+        "gp_lat": -37.817536,
+        "gp_lon": 144.9662107
+    },
+    "mgp0022": {
+        "gp_code": "mgp0022",
+        "gp_name": "Pyman's Pharmacy",
+        "gp_lat": -37.8164145,
+        "gp_lon": 144.9871973
+    },
+    "mgp0023": {
+        "gp_code": "mgp0023",
+        "gp_name": "Chemist Warehouse Southbank",
+        "gp_lat": -37.8276939,
+        "gp_lon": 144.9665201
+    },
+    "mgp0024": {
+        "gp_code": "mgp0024",
+        "gp_name": "Bridge Road Pharmacy",
+        "gp_lat": -37.8186634,
+        "gp_lon": 144.9989191
+    },
+    "mgp0025": {
+        "gp_code": "mgp0025",
+        "gp_name": "Chemist Warehouse - Footscray",
+        "gp_lat": -37.799424,
+        "gp_lon": 144.897812
+    },
+    "mgp0026": {
+        "gp_code": "mgp0026",
+        "gp_name": "Yarra City Council Aged Care Services",
+        "gp_lat": -37.8184016,
+        "gp_lon": 145.0008009447552
+    },
+    "mgp0027": {
+        "gp_code": "mgp0027",
+        "gp_name": "Darebin Immunisation Service",
+        "gp_lat": -37.7403819,
+        "gp_lon": 145.0052003
+    },
+    "mgp0028": {
+        "gp_code": "mgp0028",
+        "gp_name": "Thornbury Medical Centre",
+        "gp_lat": -37.7548006,
+        "gp_lon": 145.0205315
+    },
+    "mgp0029": {
+        "gp_code": "mgp0029",
+        "gp_name": "Buckley Street Pharmacy",
+        "gp_lat": -37.7554358,
+        "gp_lon": 144.9027885
+    },
+    "mgp0030": {
+        "gp_code": "mgp0030",
+        "gp_name": "Chemist Warehouse - Preston",
+        "gp_lat": -37.745241,
+        "gp_lon": 145.002801
+    },
+    "mgp0031": {
+        "gp_code": "mgp0031",
+        "gp_name": "Priceline Pharmacy Highpoint",
+        "gp_lat": -37.7732838,
+        "gp_lon": 144.88880200099536
+    },
+    "mgp0032": {
+        "gp_code": "mgp0032",
+        "gp_name": "Port Phillip City Council - South Melbourne Office",
+        "gp_lat": -37.8346756,
+        "gp_lon": 144.9599595
+    },
+    "mgp0033": {
+        "gp_code": "mgp0033",
+        "gp_name": "Terrywhite Chemmart - Richmond",
+        "gp_lat": -37.8256154,
+        "gp_lon": 144.9966142
+    },
+    "mgp0034": {
+        "gp_code": "mgp0034",
+        "gp_name": "Skin Temple",
+        "gp_lat": -37.8354782,
+        "gp_lon": 144.9765947
+    },
+    "mgp0035": {
+        "gp_code": "mgp0035",
+        "gp_name": "Port Phillip City Council - Port Melbourne Office",
+        "gp_lat": -37.8409829,
+        "gp_lon": 144.9465618
+    },
+    "mgp0036": {
+        "gp_code": "mgp0036",
+        "gp_name": "Port Bay Street Pharmacy",
+        "gp_lat": -37.8325082,
+        "gp_lon": 144.9479193
+    },
+    "mgp0037": {
+        "gp_code": "mgp0037",
+        "gp_name": "Chemist Warehouse Niddrie",
+        "gp_lat": -37.7307276,
+        "gp_lon": 144.8738551
+    },
+    "mgp0038": {
+        "gp_code": "mgp0038",
+        "gp_name": "Chemist Warehouse Preston Home Co DC",
+        "gp_lat": -37.7445036,
+        "gp_lon": 145.029344
+    },
+    "mgp0039": {
+        "gp_code": "mgp0039",
+        "gp_name": "First Point Medicals - Niddrie",
+        "gp_lat": -37.737036,
+        "gp_lon": 144.892353
+    },
+    "mgp0040": {
+        "gp_code": "mgp0040",
+        "gp_name": "Niddrie Pharmacy Superstore",
+        "gp_lat": -37.7307276,
+        "gp_lon": 144.8738551
+    },
+    "mgp0041": {
+        "gp_code": "mgp0041",
+        "gp_name": "Carnovale Pharmacy",
+        "gp_lat": -37.8137128,
+        "gp_lon": 144.8917186
+    },
+    "mgp0042": {
+        "gp_code": "mgp0042",
+        "gp_name": "Nelson's Amcal Pharmacy",
+        "gp_lat": -37.7049821,
+        "gp_lon": 144.9387072
+    },
+    "mgp0043": {
+        "gp_code": "mgp0043",
+        "gp_name": "Inner West Medical Centre",
+        "gp_lat": -37.8254097,
+        "gp_lon": 144.88092
+    },
+    "mgp0044": {
+        "gp_code": "mgp0044",
+        "gp_name": "Direct Chemist Outlet Reservoir",
+        "gp_lat": -37.7162353,
+        "gp_lon": 145.0057433
+    },
+    "mgp0045": {
+        "gp_code": "mgp0045",
+        "gp_name": "Your Community Health - East Reservoir",
+        "gp_lat": -37.7310502,
+        "gp_lon": 145.0286231
+    },
+    "mgp0046": {
+        "gp_code": "mgp0046",
+        "gp_name": "TerryWhite Chemmart Hawthorn",
+        "gp_lat": -37.8253913,
+        "gp_lon": 145.0348377
+    },
+    "mgp0047": {
+        "gp_code": "mgp0047",
+        "gp_name": "Priceline Pharmacy - Prahran",
+        "gp_lat": -37.8456383,
+        "gp_lon": 144.994398
+    },
+    "mgp0048": {
+        "gp_code": "mgp0048",
+        "gp_name": "Amcal Pharmacy - Prahran",
+        "gp_lat": -37.8456383,
+        "gp_lon": 144.994398
+    },
+    "mgp0049": {
+        "gp_code": "mgp0049",
+        "gp_name": "Stott's Corner Pharmacy",
+        "gp_lat": -37.8253913,
+        "gp_lon": 145.0348377
+    }
+}

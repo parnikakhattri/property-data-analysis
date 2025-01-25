@@ -1,0 +1,42 @@
+[
+    {
+        "property_id": "P10001",
+        "nearest_station": "Baxter Railway Station (Baxter)"
+    },
+    {
+        "property_id": "P10002",
+        "nearest_station": "Oakleigh Railway Station (Oakleigh)"
+    },
+    {
+        "property_id": "P10003",
+        "nearest_station": "Chelsea Railway Station (Chelsea)"
+    },
+    {
+        "property_id": "P10004",
+        "nearest_station": "Chelsea Railway Station (Chelsea)"
+    },
+    {
+        "property_id": "P10005",
+        "nearest_station": "Hallam Railway Station (Hallam)"
+    },
+    {
+        "property_id": "P10006",
+        "nearest_station": "Hallam Railway Station (Hallam)"
+    },
+    {
+        "property_id": "P10007",
+        "nearest_station": "Springvale Railway Station (Springvale)"
+    },
+    {
+        "property_id": "P10008",
+        "nearest_station": "Noble Park Railway Station (Noble Park)"
+    },
+    {
+        "property_id": "P10009",
+        "nearest_station": "Oakleigh Railway Station (Oakleigh)"
+    },
+    {
+        "property_id": "P10010",
+        "nearest_station": "Geelong Railway Station (Geelong)"
+    }
+]

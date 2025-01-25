@@ -1,0 +1,11 @@
+prop_id,full_address,bedrooms,bathrooms,parking_spaces,latitude,longitude,floor_number,land_area,floor_area,price,property_features
+P10001,3 Antrim Place Langwarrin VIC 3910,4,2,2,-38.16655678,145.1838435,,608,257,870000,dishwasher;central heating
+P10002,G01/7 Rugby Road Hughesdale VIC 3166,2,1,1,-37.89342337,145.0862616,1,,125,645000,dishwasher;air conditioning;balcony
+P10003,18 Blantyre Avenue Chelsea VIC 3196,3,2,2,-38.0518997,145.1183469,,546,259,1185000,air conditioning;spa;storage cage
+P10004,3/69 Woodbine Grove Chelsea VIC 3196,3,2,2,-38.05178396,145.1258001,1,,240,754000,floorboards;air conditioning; central heating
+P10005,3/39 Carlisle Road Hallam VIC 3803,3,1,1,-38.0014455,145.254438,3,,112,552000,dishwasher;air conditioning; communal pool
+P10006,1 Basil Close Hallam VIC 3803,3,1,2,-38.00911741,145.282743,,651,144,637000,covered patio; outdoor shed
+P10007,6 Blanford Court Mulgrave VIC 3170,3,2,2,-37.92389154,145.1920065,,324,199,1188000,central heating;solar; covered decking
+P10008,4/523-525 Police Road Mulgrave VIC 3170,3,2,1,-37.93822098,145.2109744,2,,304,730000,fireplace;air conditioning;roller garage
+P10009,28 Oakpark Drive Chadstone VIC 3148,5,3,2,-37.89020346,145.1013983,,552,262,1476000,openplan living;double garage
+P10010,FL-L5-507/8 Gheringhap Street Geelong VIC 3220,2,1,1,-38.14346765,144.3592767,5,,112,498000,

@@ -1,0 +1,175 @@
+"""
+Task 3: Process Amenities
+
+Background:
+Urban and real estate analytics often require geospatial data on essential amenities to evaluate accessibility and 
+proximity. This task processes data for Melbourne's schools, medical facilities, and sports facilities, converting 
+raw CSV inputs into structured dictionaries for analysis or integration.
+
+Purpose:
+The script validates, cleans, and structures geospatial data from input files. It ensures only valid records are 
+included and excludes invalid or incomplete entries, producing dictionaries suitable for further processing or analysis.
+
+Key Features:
+1. Processes schools, medical facilities, and sports facilities into structured dictionaries.
+2. Skips missing or invalid geospatial data to maintain output accuracy.
+3. Supports `utf-8-sig` encoding to handle potential junk characters in input files.
+
+Inputs:
+File paths are specified in `config.py`:
+- `MELBOURNE_SCHOOL`: Schools data with fields like School Number, School Name, School Type, Latitude, and Longitude.
+- `MELBOURNE_MEDICAL`: Medical facilities data with GP Code, GP Name, and geospatial coordinates.
+- `SPORT_FACILITIES`: Sports facilities data with Facility ID, Facility Name, Sport Played, and geospatial coordinates.
+
+Outputs:
+Processed dictionaries saved to JSON files specified in `config.py`:
+- `PROCESSED_SCHOOLS`: Indexed by `school_no`.
+- `PROCESSED_MEDICALS`: Indexed by `gp_code`.
+- `PROCESSED_SPORTS`: Indexed by `facility_id`.
+
+Usage:
+1. Define the input and output file paths in the configuration file (`utils/config.py`).
+2. Place the raw data in `MELBOURNE_SCHOOL`, `MELBOURNE_MEDICAL`, `MELBOURNE_SPORTS`.
+3. Run the script to process the data:
+   ```bash
+   python src/task3_data_processing.py
+
+Functions:
+1. `process_schools(file_name: str) -> dict`:
+   Processes school data and returns a dictionary indexed by `school_no`.
+
+2. `process_medicals(file_name: str) -> dict`:
+   Processes medical facility data and returns a dictionary indexed by `gp_code`.
+
+3. `process_sport(file_name: str) -> dict`:
+   Processes sports facility data and returns a dictionary indexed by `facility_id`.
+
+4. `save_to_json(data: dict, file_name: str) -> None`:
+   Saves a dictionary to a JSON file.
+
+5. `main() -> None`:
+   Coordinates the processing of schools, medical facilities, and sports facilities, and saves the output to JSON files.
+
+Example Input:
+1. `MELBOURNE_SCHOOL`:
+   101,Langwarrin Primary School,Primary,-38.182662,145.156875
+
+2. `MELBOURNE_MEDICALS`:
+   GP001,Langwarrin Medical Centre,{"lat": -38.182662, "lng": 145.156875}
+   
+3. `MELBOURNE_SPORTS`:
+   S001,Langwarrin Sports Centre,-38.182662,145.156875,Basketball
+
+Example Output:
+1. `PROCESSED_SCHOOLS`:
+   {
+       "101": {
+           "school_no": "101",
+           "school_name": "Langwarrin Primary School",
+           "school_type": "Primary",
+           "school_lat": -38.182662,
+           "school_lon": 145.156875
+       }
+   }
+
+2. `PROCESSED_MEDICALS`:
+   {
+       "GP001": {
+           "gp_code": "GP001",
+           "gp_name": "Langwarrin Medical Centre",
+           "gp_lat": -38.182662,
+           "gp_lon": 145.156875
+       }
+   }
+
+3. `PROCESSED_SPORTS`:
+   {
+       "S001": {
+           "facility_id": "S001",
+           "facility_name": "Langwarrin Sports Centre",
+           "sport_lat": -38.182662,
+           "sport_lon": 145.156875,
+           "sport_played": "Basketball"
+       }
+   }
+"""
+
+
+import json
+import csv
+from utils.config import SPORT_FACILITIES, MELBOURNE_SCHOOL, MELBOURNE_MEDICAL, PROCESSED_SCHOOLS, PROCESSED_MEDICALS, PROCESSED_SPORTS
+
+def process_schools(file_name: str) -> dict:
+    schools = {}
+    with open(file_name, 'r', encoding='utf-8-sig') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            if row['school_lat'] != 'NA' and row['school_lon'] != 'NA':
+                school_info = {
+                    'school_no': row['school_no'],
+                    'school_name': row['school_name'],
+                    'school_type': row['school_type'],
+                    'school_lat': float(row['school_lat']),
+                    'school_lon': float(row['school_lon'])
+                }
+                schools[row['school_no']] = school_info
+    return schools
+
+def process_medicals(file_name: str) -> dict:
+    medicals = {}
+    with open(file_name, 'r', encoding='utf-8-sig') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            if 'NA' not in row['location']:
+                # Extract location data from JSON and convert coordinates to float
+                location_data = json.loads(row['location'])
+                lat = float(location_data['lat'])
+                lon = float(location_data['lng'])
+                medical_info = {
+                    'gp_code': row['gp_code'],
+                    'gp_name': row['gp_name'],
+                    'gp_lat': lat,
+                    'gp_lon': lon
+                }
+                medicals[row['gp_code']] = medical_info
+    return medicals
+
+def process_sport(file_name: str) -> dict:
+    sports = {}
+    with open(file_name, 'r', encoding='utf-8-sig') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            if row['sport_lat'] != 'NA' and row['sport_lon'] != 'NA' and row['sport_lat'] != '' and row['sport_lon'] != '':
+                sport_info = {
+                    'facility_id': row['facility_id'],
+                    'facility_name': row['facility_name'],
+                    'sport_lat': float(row['sport_lat']),
+                    'sport_lon': float(row['sport_lon']),
+                    'sport_played': row['sport_played']
+                }
+                sports[row['facility_id']] = sport_info
+    return sports
+
+def save_to_json(data: dict, file_name: str) -> None:
+    with open(file_name, 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, indent=4, ensure_ascii=False)
+
+def main():
+    schools = process_schools(MELBOURNE_SCHOOL)
+    with open(PROCESSED_SCHOOLS, 'w', encoding='utf-8') as schools_file:
+        json.dump(schools, schools_file, indent=4)
+    print(f"Processed schools saved to {PROCESSED_SCHOOLS}")
+    
+    medicals = process_medicals(MELBOURNE_MEDICAL)
+    with open(PROCESSED_MEDICALS, 'w', encoding='utf-8') as medicals_file:
+        json.dump(medicals, medicals_file, indent=4)
+    print(f"Processed medical facilities saved to {PROCESSED_MEDICALS}")
+    
+    sports = process_sport(SPORT_FACILITIES)
+    with open(PROCESSED_SPORTS, 'w', encoding='utf-8') as sports_file:
+        json.dump(sports, sports_file, indent=4)
+    print(f"Processed sports facilities saved to {PROCESSED_SPORTS}")
+
+
+if __name__ == '__main__':
+    main()

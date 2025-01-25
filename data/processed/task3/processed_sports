@@ -1,0 +1,338 @@
+{
+    "BRIMBA8346": {
+        "facility_id": "BRIMBA8346",
+        "facility_name": "Dempster Park",
+        "sport_lat": -37.775225,
+        "sport_lon": 144.837725,
+        "sport_played": "Cricket"
+    },
+    "BANYUL12804": {
+        "facility_id": "BANYUL12804",
+        "facility_name": "Central Park",
+        "sport_lat": -37.715628,
+        "sport_lon": 145.105598,
+        "sport_played": "Cricket"
+    },
+    "GREATE11073": {
+        "facility_id": "GREATE11073",
+        "facility_name": "Highton Reserve",
+        "sport_lat": -38.172014,
+        "sport_lon": 144.321539,
+        "sport_played": "Lawn Bowls"
+    },
+    "WHITTL9525": {
+        "facility_id": "WHITTL9525",
+        "facility_name": "Epping Recreation Reserve",
+        "sport_lat": -37.639162,
+        "sport_lon": 145.02391,
+        "sport_played": "Australian Rules Football"
+    },
+    "PYRENE11083": {
+        "facility_id": "PYRENE11083",
+        "facility_name": "Landsborough & District Bowling Club",
+        "sport_lat": -37.008863,
+        "sport_lon": 143.133602,
+        "sport_played": "Lawn Bowls"
+    },
+    "WODONG11109": {
+        "facility_id": "WODONG11109",
+        "facility_name": "Wodonga Sports & Leisure Centre (YMCA)",
+        "sport_lat": -36.127759,
+        "sport_lon": 146.861798,
+        "sport_played": "Fitness / Gymnasium Workouts"
+    },
+    "MOORAB11075": {
+        "facility_id": "MOORAB11075",
+        "facility_name": "Bacchus Marsh Civic Community Hub",
+        "sport_lat": -37.652767,
+        "sport_lon": 144.424393,
+        "sport_played": "Australian Rules Football"
+    },
+    "SURFCO11864": {
+        "facility_id": "SURFCO11864",
+        "facility_name": "Bob Pettit Reserve",
+        "sport_lat": -38.348348,
+        "sport_lon": 144.294279,
+        "sport_played": "Australian Rules Football"
+    },
+    "GOLDEN8282": {
+        "facility_id": "GOLDEN8282",
+        "facility_name": "Bannockburn Golf Club",
+        "sport_lat": -38.043618,
+        "sport_lon": 144.131918,
+        "sport_played": "Golf"
+    },
+    "KNOXCI8586": {
+        "facility_id": "KNOXCI8586",
+        "facility_name": "Knox Leisureworks YMCA",
+        "sport_lat": -37.85695,
+        "sport_lon": 145.278334,
+        "sport_played": "Swimming"
+    },
+    "MELBOU11024": {
+        "facility_id": "MELBOU11024",
+        "facility_name": "Punt rd Recreation Reserve & Community Pool",
+        "sport_lat": -37.822304,
+        "sport_lon": 144.987903,
+        "sport_played": "Australian Rules Football"
+    },
+    "WODONG11090": {
+        "facility_id": "WODONG11090",
+        "facility_name": "Birallee Park",
+        "sport_lat": -36.127132,
+        "sport_lon": 146.858085,
+        "sport_played": "Australian Rules Football"
+    },
+    "WARRNA11705": {
+        "facility_id": "WARRNA11705",
+        "facility_name": "Bushfield Recreation Reserve",
+        "sport_lat": -38.32603,
+        "sport_lon": 142.506814,
+        "sport_played": "Netball"
+    },
+    "MONASH12001": {
+        "facility_id": "MONASH12001",
+        "facility_name": "Meade Reserve",
+        "sport_lat": -37.922689,
+        "sport_lon": 145.1162,
+        "sport_played": "Australian Rules Football"
+    },
+    "MOONEE9355": {
+        "facility_id": "MOONEE9355",
+        "facility_name": "Clifton Park",
+        "sport_lat": -37.755988,
+        "sport_lon": 144.891501,
+        "sport_played": "Tennis (Outdoor)"
+    },
+    "GLENEL11562": {
+        "facility_id": "GLENEL11562",
+        "facility_name": "Dartmoor Recreation Reserve",
+        "sport_lat": -37.924998,
+        "sport_lon": 141.273237,
+        "sport_played": "Netball"
+    },
+    "WANGAR11512": {
+        "facility_id": "WANGAR11512",
+        "facility_name": "Glenrowan Recreation Reserve",
+        "sport_lat": -36.465536,
+        "sport_lon": 146.215269,
+        "sport_played": "Australian Rules Football"
+    },
+    "WESTWI9510": {
+        "facility_id": "WESTWI9510",
+        "facility_name": "Kaniva Sport Complex",
+        "sport_lat": -36.383359,
+        "sport_lon": 141.245901,
+        "sport_played": "Table Tennis"
+    },
+    "DAREBI11848": {
+        "facility_id": "DAREBI11848",
+        "facility_name": "Thornbury Bowls Club",
+        "sport_lat": -37.758906,
+        "sport_lon": 144.998573,
+        "sport_played": "Lawn Bowls"
+    },
+    "WELLIN11012": {
+        "facility_id": "WELLIN11012",
+        "facility_name": "Loch Sport Recreation Reserve",
+        "sport_lat": -38.057079,
+        "sport_lon": 147.565283,
+        "sport_played": "Netball"
+    },
+    "COLACO11264": {
+        "facility_id": "COLACO11264",
+        "facility_name": "Alvie Recreation Reserve",
+        "sport_lat": -38.242638,
+        "sport_lon": 143.50924,
+        "sport_played": "Cricket"
+    },
+    "MANNIN10995": {
+        "facility_id": "MANNIN10995",
+        "facility_name": "Definition Fitness Centre",
+        "sport_lat": -37.776105,
+        "sport_lon": 145.165123,
+        "sport_played": "Fitness / Gymnasium Workouts"
+    },
+    "MURRIN11012": {
+        "facility_id": "MURRIN11012",
+        "facility_name": "Spring Valley Recreation Reserve ",
+        "sport_lat": -37.291851,
+        "sport_lon": 145.299709,
+        "sport_played": "Tennis (Outdoor)"
+    },
+    "GREATE8699": {
+        "facility_id": "GREATE8699",
+        "facility_name": "Marong Golf Course",
+        "sport_lat": -36.739011,
+        "sport_lon": 144.1288,
+        "sport_played": "Golf"
+    },
+    "HUMECI11765": {
+        "facility_id": "HUMECI11765",
+        "facility_name": "Jacana Reserve ",
+        "sport_lat": -37.682641,
+        "sport_lon": 144.9044,
+        "sport_played": "Cricket"
+    },
+    "BENALL11082": {
+        "facility_id": "BENALL11082",
+        "facility_name": "Goorambat Recreation Reserve",
+        "sport_lat": -36.407432,
+        "sport_lon": 145.917106,
+        "sport_played": "Australian Rules Football"
+    },
+    "CAMPAS8805": {
+        "facility_id": "CAMPAS8805",
+        "facility_name": "Lockington Recreation Reserve",
+        "sport_lat": -36.265744,
+        "sport_lon": 144.541312,
+        "sport_played": "Tennis (Outdoor)"
+    },
+    "SWANHI9462": {
+        "facility_id": "SWANHI9462",
+        "facility_name": "Manangatang Recreation Reserve",
+        "sport_lat": -35.055373,
+        "sport_lon": 142.885338,
+        "sport_played": "Cricket"
+    },
+    "GEELON11182": {
+        "facility_id": "GEELON11182",
+        "facility_name": "Geelong Pistol Club",
+        "sport_lat": -38.238961,
+        "sport_lon": 144.316561,
+        "sport_played": "Shooting Sports"
+    },
+    "MELTON9052": {
+        "facility_id": "MELTON9052",
+        "facility_name": "Burnside Heights Recreation Reserve",
+        "sport_lat": -37.736311,
+        "sport_lon": 144.754676,
+        "sport_played": "Cricket"
+    },
+    "CARDIN11023": {
+        "facility_id": "CARDIN11023",
+        "facility_name": "Lang Lang Showgrounds Reserve",
+        "sport_lat": -38.268214,
+        "sport_lon": 145.560478,
+        "sport_played": "Cricket"
+    },
+    "BRIMBA5637": {
+        "facility_id": "BRIMBA5637",
+        "facility_name": "Keilor Park Recreation Reserve",
+        "sport_lat": -37.715205,
+        "sport_lon": 144.848751,
+        "sport_played": "Crickes"
+    },
+    "MORELA13002": {
+        "facility_id": "MORELA13002",
+        "facility_name": "CB Smith Reserve",
+        "sport_lat": -37.704697,
+        "sport_lon": 144.969038,
+        "sport_played": "Soccer"
+    },
+    "BAYSID5413": {
+        "facility_id": "BAYSID5413",
+        "facility_name": "Boss James Reserve",
+        "sport_lat": -37.9426,
+        "sport_lon": 145.0218,
+        "sport_played": "Netball"
+    },
+    "BALLAR12515": {
+        "facility_id": "BALLAR12515",
+        "facility_name": "Mount Xavier Golf Course",
+        "sport_lat": -37.562836,
+        "sport_lon": 143.903691,
+        "sport_played": "Golf"
+    },
+    "SOUTHE11413": {
+        "facility_id": "SOUTHE11413",
+        "facility_name": "Mitchell Park",
+        "sport_lat": -37.754774,
+        "sport_lon": 142.031503,
+        "sport_played": "Cricket"
+    },
+    "GLENEL11572": {
+        "facility_id": "GLENEL11572",
+        "facility_name": "Heywood Community Complex",
+        "sport_lat": -38.138391,
+        "sport_lon": 141.62712,
+        "sport_played": "Squash / Racquetball"
+    },
+    "MOIRAS12190": {
+        "facility_id": "MOIRAS12190",
+        "facility_name": "Koonoomoo Recreation Reserve",
+        "sport_lat": -35.892441,
+        "sport_lon": 145.576801,
+        "sport_played": "Rugby Union"
+    },
+    "FRANKS11028": {
+        "facility_id": "FRANKS11028",
+        "facility_name": "Eric Bell Reserve",
+        "sport_lat": -38.124842,
+        "sport_lon": 145.147295,
+        "sport_played": "Cricket"
+    },
+    "WHITTL9560": {
+        "facility_id": "WHITTL9560",
+        "facility_name": "Thomastown Indoor Sports",
+        "sport_lat": -37.688605,
+        "sport_lon": 145.003372,
+        "sport_played": "Beach Volleyball"
+    },
+    "MOORAB9421": {
+        "facility_id": "MOORAB9421",
+        "facility_name": "Dunnstown Recreation Reserve",
+        "sport_lat": -37.587388,
+        "sport_lon": 143.959959,
+        "sport_played": "Tennis (Outdoor)"
+    },
+    "MELTON9094": {
+        "facility_id": "MELTON9094",
+        "facility_name": "West Melton Tennis Courts",
+        "sport_lat": -37.682446,
+        "sport_lon": 144.56389,
+        "sport_played": "Tennis (Outdoor)"
+    },
+    "SOUTHE11396": {
+        "facility_id": "SOUTHE11396",
+        "facility_name": "Dunkeld Recreation Reserve",
+        "sport_lat": -37.653317,
+        "sport_lon": 142.337842,
+        "sport_played": "Cricket"
+    },
+    "CASEYC12294": {
+        "facility_id": "CASEYC12294",
+        "facility_name": "KM Reedy Recreation Reserve",
+        "sport_lat": -38.023132,
+        "sport_lon": 145.248479,
+        "sport_played": "BMX"
+    },
+    "KNOXCI8553": {
+        "facility_id": "KNOXCI8553",
+        "facility_name": "Carrington Park Leisure Centre",
+        "sport_lat": -37.895309,
+        "sport_lon": 145.242961,
+        "sport_played": "Gymnastics"
+    },
+    "GLENEI11219": {
+        "facility_id": "GLENEI11219",
+        "facility_name": "King George VI Memorial Park",
+        "sport_lat": -37.929295,
+        "sport_lon": 145.059689,
+        "sport_played": "Tennis (Outdoor)"
+    },
+    "MOUNTA12673": {
+        "facility_id": "MOUNTA12673",
+        "facility_name": "Harcourt Recreation Reserve",
+        "sport_lat": -37.004161,
+        "sport_lon": 144.257137,
+        "sport_played": "Cricket"
+    },
+    "ALPINE10941": {
+        "facility_id": "ALPINE10941",
+        "facility_name": "Myrtleford Indoor Sports Complex",
+        "sport_lat": -36.552593,
+        "sport_lon": 146.725872,
+        "sport_played": "Basketball"
+    }
+}

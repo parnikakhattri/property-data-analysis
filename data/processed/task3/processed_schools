@@ -1,0 +1,352 @@
+{
+    "1": {
+        "school_no": "1",
+        "school_name": "Alberton Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.617713,
+        "school_lon": 146.666601
+    },
+    "3": {
+        "school_no": "3",
+        "school_name": "Allansford and District Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.386281,
+        "school_lon": 142.590393
+    },
+    "4": {
+        "school_no": "4",
+        "school_name": "Avoca Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.084502,
+        "school_lon": 143.475649
+    },
+    "8": {
+        "school_no": "8",
+        "school_name": "Avenel Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.901368,
+        "school_lon": 145.234722
+    },
+    "12": {
+        "school_no": "12",
+        "school_name": "Warrandyte Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.742675,
+        "school_lon": 145.21398
+    },
+    "26": {
+        "school_no": "26",
+        "school_name": "Belmont Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.170672,
+        "school_lon": 144.342099
+    },
+    "28": {
+        "school_no": "28",
+        "school_name": "Bacchus Marsh Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.67302961,
+        "school_lon": 144.4431207
+    },
+    "33": {
+        "school_no": "33",
+        "school_name": "Ballarat Primary School (Dana Street)",
+        "school_type": "Primary",
+        "school_lat": -37.56401278,
+        "school_lon": 143.853936
+    },
+    "37": {
+        "school_no": "37",
+        "school_name": "Wodonga Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.129214,
+        "school_lon": 146.88982
+    },
+    "40": {
+        "school_no": "40",
+        "school_name": "Berwick Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.044094,
+        "school_lon": 145.354417
+    },
+    "60": {
+        "school_no": "60",
+        "school_name": "Beaufort Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.43852098,
+        "school_lon": 143.3817175
+    },
+    "84": {
+        "school_no": "84",
+        "school_name": "Cheltenham Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.968608,
+        "school_lon": 145.054635
+    },
+    "105": {
+        "school_no": "105",
+        "school_name": "Cudgee Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.347938,
+        "school_lon": 142.650844
+    },
+    "113": {
+        "school_no": "113",
+        "school_name": "Newport Lakes Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.838424,
+        "school_lon": 144.878345
+    },
+    "116": {
+        "school_no": "116",
+        "school_name": "Cavendish Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.53087,
+        "school_lon": 142.039893
+    },
+    "117": {
+        "school_no": "117",
+        "school_name": "Colac Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.337224,
+        "school_lon": 143.598336
+    },
+    "119": {
+        "school_no": "119",
+        "school_name": "Castlemaine Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.066595,
+        "school_lon": 144.222329
+    },
+    "120": {
+        "school_no": "120",
+        "school_name": "Campbells Creek Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.092935,
+        "school_lon": 144.204662
+    },
+    "122": {
+        "school_no": "122",
+        "school_name": "Creswick Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.42411355,
+        "school_lon": 143.8915581
+    },
+    "123": {
+        "school_no": "123",
+        "school_name": "California Gully Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.733207,
+        "school_lon": 144.249857
+    },
+    "128": {
+        "school_no": "128",
+        "school_name": "St Andrews Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.602316,
+        "school_lon": 145.269827
+    },
+    "182": {
+        "school_no": "182",
+        "school_name": "Warrnambool West Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.366338,
+        "school_lon": 142.466796
+    },
+    "184": {
+        "school_no": "184",
+        "school_name": "Dromana Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.339644,
+        "school_lon": 144.959653
+    },
+    "197": {
+        "school_no": "197",
+        "school_name": "Doncaster Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.786804,
+        "school_lon": 145.129673
+    },
+    "208": {
+        "school_no": "208",
+        "school_name": "Echuca Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.128198,
+        "school_lon": 144.747463
+    },
+    "209": {
+        "school_no": "209",
+        "school_name": "Eltham Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.72498353,
+        "school_lon": 145.1478042
+    },
+    "210": {
+        "school_no": "210",
+        "school_name": "Eaglehawk Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.720583,
+        "school_lon": 144.254259
+    },
+    "220": {
+        "school_no": "220",
+        "school_name": "Elphinstone Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.10500363,
+        "school_lon": 144.3329025
+    },
+    "244": {
+        "school_no": "244",
+        "school_name": "Hallam Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.001759,
+        "school_lon": 145.258244
+    },
+    "250": {
+        "school_no": "250",
+        "school_name": "Flemington Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.780674,
+        "school_lon": 144.933923
+    },
+    "253": {
+        "school_no": "253",
+        "school_name": "Footscray Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.798383,
+        "school_lon": 144.892669
+    },
+    "262": {
+        "school_no": "262",
+        "school_name": "Gisborne Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.4908591,
+        "school_lon": 144.5884416
+    },
+    "267": {
+        "school_no": "267",
+        "school_name": "Sandringham Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.947631,
+        "school_lon": 145.009306
+    },
+    "275": {
+        "school_no": "275",
+        "school_name": "Wandiligong Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.768862,
+        "school_lon": 146.982923
+    },
+    "283": {
+        "school_no": "283",
+        "school_name": "Grovedale Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.197643,
+        "school_lon": 144.347756
+    },
+    "293": {
+        "school_no": "293",
+        "school_name": "Hawthorn West Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.820112,
+        "school_lon": 145.018377
+    },
+    "294": {
+        "school_no": "294",
+        "school_name": "Heidelberg Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.754705,
+        "school_lon": 145.067799
+    },
+    "295": {
+        "school_no": "295",
+        "school_name": "Hamilton (Gray Street) Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.744914,
+        "school_lon": 142.021384
+    },
+    "300": {
+        "school_no": "300",
+        "school_name": "Heathcote Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.924012,
+        "school_lon": 144.706851
+    },
+    "304": {
+        "school_no": "304",
+        "school_name": "Highton Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.172156,
+        "school_lon": 144.317085
+    },
+    "306": {
+        "school_no": "306",
+        "school_name": "Huntly Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.662544,
+        "school_lon": 144.334396
+    },
+    "319": {
+        "school_no": "319",
+        "school_name": "Bellbrae Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.33364403,
+        "school_lon": 144.2630037
+    },
+    "327": {
+        "school_no": "327",
+        "school_name": "Chiltern Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.147066,
+        "school_lon": 146.606601
+    },
+    "343": {
+        "school_no": "343",
+        "school_name": "Kyneton Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.248889,
+        "school_lon": 144.462694
+    },
+    "366": {
+        "school_no": "366",
+        "school_name": "Romsey Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.35417523,
+        "school_lon": 144.7453792
+    },
+    "379": {
+        "school_no": "379",
+        "school_name": "Shelford Primary School",
+        "school_type": "Primary",
+        "school_lat": -38.0139946,
+        "school_lon": 143.9821391
+    },
+    "385": {
+        "school_no": "385",
+        "school_name": "Lockwood South Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.841602,
+        "school_lon": 144.156748
+    },
+    "400": {
+        "school_no": "400",
+        "school_name": "Marong Primary School",
+        "school_type": "Primary",
+        "school_lat": -36.735679,
+        "school_lon": 144.135372
+    },
+    "415": {
+        "school_no": "415",
+        "school_name": "Mount Macedon Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.40479379,
+        "school_lon": 144.5841275
+    },
+    "427": {
+        "school_no": "427",
+        "school_name": "Mount Clear Primary School",
+        "school_type": "Primary",
+        "school_lat": -37.604741,
+        "school_lon": 143.868373
+    }
+}

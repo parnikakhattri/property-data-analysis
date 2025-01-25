@@ -1,0 +1,11 @@
+# Configuration for file paths
+PROPERTIES_FILE = 'data/raw/properties.csv'
+EXTRACTED_PROPERTIES = 'data/processed/task1/extracted_properties.json'
+STATIONS_FILE = 'data/raw/train_stations.csv'
+NEAREST_STATION_OUTPUT = 'data/processed/task2/nearest_station.json'
+MELBOURNE_MEDICAL = 'data/raw/melbourne_medical.csv'
+MELBOURNE_SCHOOL = 'data/raw/melbourne_schools.csv'  
+SPORT_FACILITIES = 'data/raw/sport_facilities.csv'
+PROCESSED_SCHOOLS = 'data/processed/task3/processed_schools'
+PROCESSED_MEDICALS = 'data/processed/task3/processed_medicals'
+PROCESSED_SPORTS = 'data/processed/task3/processed_sports'

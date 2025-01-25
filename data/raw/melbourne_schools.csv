@@ -1,0 +1,51 @@
+﻿school_no,school_name,school_type,School_Status,Address_Line_1,Address_Line_2,Address_Town,Address_State,Address_Postcode,Postal_Address_Line_1,Postal_Address_Line_2,Postal_Town,Postal_State,Postal_Postcode,Full_Phone_No,LGA_ID,LGA_Name,school_lon,school_lat
+1,Alberton Primary School,Primary,O,21 Thomson Street,,Alberton,VIC,3971,21 Thomson Street,,ALBERTON,VIC,3971,03 5183 2412,681,Wellington (S),146.666601,-38.617713
+3,Allansford and District Primary School,Primary,O,Frank Street,,Allansford,VIC,3277,Frank Street,,ALLANSFORD,VIC,3277,03 5565 1382,673,Warrnambool (C),142.590393,-38.386281
+4,Avoca Primary School,Primary,O,118 Barnett Street,,Avoca,VIC,3467,P O Box 12,,AVOCA,VIC,3467,03 5465 3176,599,Pyrenees (S),143.475649,-37.084502
+8,Avenel Primary School,Primary,O,40 Anderson Street,,Avenel,VIC,3664,40 Anderson Street,,AVENEL,VIC,3664,03 5796 2264,643,Strathbogie (S),145.234722,-36.901368
+12,Warrandyte Primary School,Primary,O,5-11 Forbes Street,,Warrandyte,VIC,3113,5-11 Forbes Street,,WARRANDYTE,VIC,3113,03 9844 3537,421,Manningham (C),145.21398,-37.742675
+26,Belmont Primary School,Primary,O,51 Mt Pleasant Road,,Belmont,VIC,3216,P O Box 471,,BELMONT,VIC,3216,03 5243 2972,275,Greater Geelong (C),144.342099,-38.170672
+28,Bacchus Marsh Primary School,Primary,O,56-62 Lerderderg Street,,Bacchus Marsh,VIC,3340,P O Box 334,,Bacchus Marsh,VIC,3340,03 5367 2745,515,Moorabool (S),144.4431207,-37.67302961
+33,Ballarat Primary School (Dana Street),Primary,O,401 Dana Street,,Ballarat,VIC,3350,401 Dana Street,,BALLARAT,VIC,3350,03 5332 1301,57,Ballarat (C),143.853936,-37.56401278
+37,Wodonga Primary School,Primary,O,Brockley Street,,Wodonga,VIC,3690,PO Box 329,,WODONGA,VIC,3689,02 6048 0300,717,Wodonga (C),146.88982,-36.129214
+40,Berwick Primary School,Primary,O,37 Fairholme Boulevard,,Berwick,VIC,3806,37 Fairholme Boulevard,,Berwick,VIC,3806,03 9707 1026,161,Casey (C),145.354417,-38.044094
+60,Beaufort Primary School,Primary,O,2/37 Park Road,,Beaufort,VIC,3373,P O Box 18,,BEAUFORT,VIC,3373,03 5349 2490,599,Pyrenees (S),143.3817175,-37.43852098
+84,Cheltenham Primary School,Primary,O,231 Charman Road,,Cheltenham,VIC,3192,231 Charman Road,,CHELTENHAM,VIC,3192,03 8585 3200,91,Bayside (C),145.054635,-37.968608
+105,Cudgee Primary School,Primary,O,3 Hallowells Road,,Cudgee,VIC,3265,3 Hallowells Road,,CUDGEE,VIC,3265,03 5567 6346,549,Moyne (S),142.650844,-38.347938
+113,Newport Lakes Primary School,Primary,O,Elizabeth Street,,Newport,VIC,3015,Elizabeth Street,,NEWPORT,VIC,3015,03 9391 8942,311,Hobsons Bay (C),144.878345,-37.838424
+116,Cavendish Primary School,Primary,O,8-10 Barker Street,,Cavendish,VIC,3314,P O Box 28,,CAVENDISH,VIC,3314,03 5574 2282,626,Southern Grampians (S),142.039893,-37.53087
+117,Colac Primary School,Primary,O,53-65 Murray Street East,,Colac,VIC,3250,P O Box 325,,COLAC,VIC,3250,03 5231 2560,175,Colac-Otway (S),143.598336,-38.337224
+119,Castlemaine Primary School,Primary,O,Cnr Mostyn & Urquhart Street,,Castlemaine,VIC,3450,P O Box 448,,CASTLEMAINE,VIC,3450,03 5472 1452,543,Mount Alexander (S),144.222329,-37.066595
+120,Campbells Creek Primary School,Primary,O,Main Road,,Campbells Creek,VIC,3451,Main Road,,CAMPBELLS CREEK,VIC,3451,03 5472 2180,543,Mount Alexander (S),144.204662,-37.092935
+122,Creswick Primary School,Primary,O,67 Napier Street,,Creswick,VIC,3363,P O Box 67,,CRESWICK,VIC,3363,03 5345 2044,291,Hepburn (S),143.8915581,-37.42411355
+123,California Gully Primary School,Primary,O,4-14 Staley Street,,California Gully,VIC,3556,P O Box 88,,CALIFORNIA GULLY,VIC,3556,03 5446 8393,262,Greater Bendigo (C),144.249857,-36.733207
+128,St Andrews Primary School,Primary,O,Caledonia Street,,St Andrews,VIC,3761,Caledonia Street,,ST ANDREWS,VIC,3761,03 9710 1255,571,Nillumbik (S),145.269827,-37.602316
+182,Warrnambool West Primary School,Primary,O,35 Hoddle Street,,Warrnambool,VIC,3280,35 Hoddle Street,,WARRNAMBOOL,VIC,3280,03 5561 3161,673,Warrnambool (C),142.466796,-38.366338
+184,Dromana Primary School,Primary,O,Mcculloch Street,,Dromana,VIC,3936,P O Box 166,,DROMANA,VIC,3936,03 5987 2367,534,Mornington Peninsula (S),144.959653,-38.339644
+197,Doncaster Primary School,Primary,O,2 - 12 Council Street,,Doncaster,VIC,3108,PO Box 404,,Westfield  Doncaster,VIC,3108,03 9848 1122,421,Manningham (C),145.129673,-37.786804
+208,Echuca Primary School,Primary,O,413-431 High Street,,Echuca,VIC,3564,413-431 High Street,,ECHUCA,VIC,3564,03 5483 0700,137,Campaspe (S),144.747463,-36.128198
+209,Eltham Primary School,Primary,O,Dalton Street,,Eltham,VIC,3095,DALTON STREET,,ELTHAM,VIC,3095,03 9439 9374,571,Nillumbik (S),145.1478042,-37.72498353
+210,Eaglehawk Primary School,Primary,O,Church St,,Eaglehawk,VIC,3556,P O Box 77,,EAGLEHAWK,VIC,3556,03 5446 3722,262,Greater Bendigo (C),144.254259,-36.720583
+220,Elphinstone Primary School,Primary,O,26 Wright Street,,Elphinstone,VIC,3448,26 Wright Street,,ELPHINSTONE,VIC,3448,03 5473 3285,543,Mount Alexander (S),144.3329025,-37.10500363
+244,Hallam Primary School,Primary,O,24 Harmer Road,,Hallam,VIC,3803,24 Harmer Road,,HALLAM,VIC,3803,03 9703 1536,161,Casey (C),145.258244,-38.001759
+250,Flemington Primary School,Primary,O,Cnr Mt Alexander Rd & Padman Lane,,Flemington,VIC,3031,P O Box 7,,FLEMINGTON,VIC,3031,03 9376 7137,506,Moonee Valley (C),144.933923,-37.780674
+253,Footscray Primary School,Primary,O,Cnr Geelong Road & Barkly St,,Footscray,VIC,3011,P O Box 6019,,WEST FOOTSCRAY,VIC,3012,03 9687 1910,433,Maribyrnong (C),144.892669,-37.798383
+262,Gisborne Primary School,Primary,O,35 Fisher Street,,Gisborne,VIC,3437,35 FISHER STREET,,GISBORNE,VIC,3437,03 5428 2022,413,Macedon Ranges (S),144.5884416,-37.4908591
+267,Sandringham Primary School,Primary,O,31 Bamfield Street,,Sandringham,VIC,3191,31 Bamfield Street,,SANDRINGHAM,VIC,3191,03 9598 1488,91,Bayside (C),145.009306,-37.947631
+275,Wandiligong Primary School,Primary,O,119 School Road,,Wandiligong,VIC,3744,P O Box  591,,BRIGHT,VIC,3741,03 5755 1026,11,Alpine (S),146.982923,-36.768862
+283,Grovedale Primary School,Primary,O,143 Bailey Street,,Grovedale,VIC,3216,143 Bailey Street,,GROVEDALE,VIC,3216,03 5243 3902,275,Greater Geelong (C),144.347756,-38.197643
+293,Hawthorn West Primary School,Primary,O,Cnr Wood Street & Burwood Road,,Hawthorn,VIC,3122,Cnr Wood Street & Burwood Road,,HAWTHORN,VIC,3122,03 9818 2233,111,Boroondara (C),145.018377,-37.820112
+294,Heidelberg Primary School,Primary,O,120 Cape Street,,Heidelberg,VIC,3084,P O Box 330,,HEIDELBERG,VIC,3084,03 9457 2259,66,Banyule (C),145.067799,-37.754705
+295,Hamilton (Gray Street) Primary School,Primary,O,42 Gray Street,,Hamilton,VIC,3300,P O Box 203,,HAMILTON,VIC,3300,03 5571 9295,626,Southern Grampians (S),142.021384,-37.744914
+300,Heathcote Primary School,Primary,O,31 Herriot Street,,Heathcote,VIC,3523,P O Box 631,,HEATHCOTE,VIC,3523,03 5433 3090,262,Greater Bendigo (C),144.706851,-36.924012
+304,Highton Primary School,Primary,O,218 Roslyn Road,,Highton,VIC,3216,P O Box 6093,,HIGHTON,VIC,3216,03 5243 1494,275,Greater Geelong (C),144.317085,-38.172156
+306,Huntly Primary School,Primary,O,101 Brunel Street,,Huntly,VIC,3551,101 Brunel Street,,HUNTLY,VIC,3551,03 5448 8866,262,Greater Bendigo (C),144.334396,-36.662544
+319,Bellbrae Primary School,Primary,O,50 School Road,,Bellbrae,VIC,3228,50 School Road,,BELLBRAE,VIC,3228,03 5261 2660,649,Surf Coast (S),144.2630037,-38.33364403
+327,Chiltern Primary School,Primary,O,91-101 Albert Road,,Chiltern,VIC,3683,P O Box 30,,CHILTERN,VIC,3683,03 5726 1421,335,Indigo (S),146.606601,-36.147066
+343,Kyneton Primary School,Primary,O,49-79 Edgecombe Street,,Kyneton,VIC,3444,P O Box 192,,KYNETON,VIC,3444,03 5422 1855,413,Macedon Ranges (S),144.462694,-37.248889
+366,Romsey Primary School,Primary,O,2-56 Station Street,,Romsey,VIC,3434,Station Street,,ROMSEY,VIC,3434,03 5429 5099,413,Macedon Ranges (S),144.7453792,-37.35417523
+379,Shelford Primary School,Primary,O,1717 Shelford-Bannockburn Road,,Shelford,VIC,3329,1717 Shelford-Bannockburn Road,,SHELFORD,VIC,3329,03 5281 3291,249,Golden Plains (S),143.9821391,-38.0139946
+385,Lockwood South Primary School,Primary,O,710 Calder Alternative Highway,,Lockwood South,VIC,3551,710 Calder Alternative Highway,,LOCKWOOD SOUTH,VIC,3551,03 5435 3293,262,Greater Bendigo (C),144.156748,-36.841602
+400,Marong Primary School,Primary,O,2 Leslie Street,,Marong,VIC,3515,P O Box 303,,MARONG,VIC,3515,03 5435 2288,262,Greater Bendigo (C),144.135372,-36.735679
+415,Mount Macedon Primary School,Primary,O,641 Mount Macedon Road,,Mount Macedon,VIC,3441,641 Mount Macedon Road,,MOUNT MACEDON,VIC,3441,03 5426 1446,413,Macedon Ranges (S),144.5841275,-37.40479379
+427,Mount Clear Primary School,Primary,O,1206 Geelong Road,,Mount Clear,VIC,3350,1206 Geelong Road,,MOUNT CLEAR,VIC,3350,03 5330 1844,57,Ballarat (C),143.868373,-37.604741
